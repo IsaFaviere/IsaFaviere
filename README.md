@@ -51,3 +51,16 @@
 ![snake gif](https://github.com/IsaFaviere/IsaFaviere/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=isafaviere&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
