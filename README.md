@@ -48,11 +48,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/IsaFaviere/IsaFaviere/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
